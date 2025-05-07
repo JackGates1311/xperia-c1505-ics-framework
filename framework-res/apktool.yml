@@ -1,0 +1,23 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: framework-res.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- jpg
+- ogg
+isFrameworkApk: true
+packageInfo:
+  forcedPackageId: '1'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '15'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework: null
+version: 2.7.0
+versionInfo:
+  versionCode: '15'
+  versionName: 4.0.4-20130117.190641

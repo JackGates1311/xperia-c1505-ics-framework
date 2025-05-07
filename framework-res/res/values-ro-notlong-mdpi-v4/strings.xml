@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_strings_backup_selection_security_question_summary_txt">Debloc. cu întreb. siguranţă</string>
+    <string name="invalidPin">Tastaţi PIN compus din 4 - 8 cifre.</string>
+    <string name="lockscreen_pattern_instructions">Desenaţi modelul pt. deblocare</string>
+    <string name="alwaysUse">Se util. implicit pt. această acţiune.</string>
+    <string name="adb_active_notification_message">Selectaţi pentru a dezactiva depanarea USB.</string>
+    <string name="car_mode_disable_notification_message">Selectaţi pentru a ieşi din modul Auto.</string>
+    <string name="dialer_keyboard_hint_txt">Utilizaţi tastat. pt. apel.</string>
+    <string name="general_dialpad_voicemail_txt">Poştă voc.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
+    <string name="adb_active_notification_message">USB hata ayıklamasını kapatmak için seçin.</string>
+    <string name="dialer_keyboard_hint_txt">Aramak için klavy. kullan</string>
+</resources>
